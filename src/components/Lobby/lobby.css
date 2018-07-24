@@ -1,0 +1,7 @@
+.lobbyContainer{
+    display: none
+}
+
+.visible{
+    display: flex
+}
